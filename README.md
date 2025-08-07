@@ -1,16 +1,27 @@
-# sipcalculator
+# 💰 Investment Calculator
 
-A new Flutter project.
+A simple and powerful all-in-one finance calculator built with Flutter.  
+This app helps users plan and compute SIP, EMI, mutual fund returns, and GST — all in one place.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📈 SIP Calculator
+- 🏦 EMI Calculator
+- 📊 Mutual Fund Returns
+- 🧾 GST Calculator
+- 🔧 Clean UI with responsive design
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Dart)
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Dev-MadhavBharti/Investment-Calculator.git
+cd Investment-Calculator
+flutter pub get
+flutter run
